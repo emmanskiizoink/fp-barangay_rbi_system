@@ -1,1 +1,2 @@
-# fp-barangay_rbi_system
+Username: admin
+Password: admin123
